@@ -15,7 +15,7 @@ https://storage.googleapis.com/kubernetes-helm/helm-v2.11.0-windows-amd64.zip
 ## Initialize helm
 
 ```
-kubect create -f helm-rbac.yaml
+kubectl create -f helm-rbac.yaml
 helm init --service-account tiller
 ```
 
