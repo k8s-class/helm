@@ -7,6 +7,10 @@ wget https://storage.googleapis.com/kubernetes-helm/helm-v2.9.1-linux-amd64.tar.
 tar -xzvf helm-v2.9.1-linux-amd64.tar.gz
 sudo mv linux-amd64/helm /usr/local/bin/helm
 ```
+# Windows Helm Version
+```
+https://storage.googleapis.com/kubernetes-helm/helm-v2.11.0-windows-amd64.zip
+```
 
 ## Initialize helm
 
